@@ -1,1 +1,3 @@
-# Introduction of what the code is about
+# Introduction of what the code is about:
+This code carries out a straightforward library management framework that permits users and staff to collaborate with an assortment of books. The framework upholds functionalities for signing in, enlisting new users and staff, adding and erasing books, and getting and bringing books back. It incorporates separate menus and activities for staff and users, guaranteeing that every job approaches proper elements. The information about books, staff credentials, user credentials, and acquired books are put away in word references and records. The framework works through a progression of order line sources of info and results, directing users through different choices and taking care of their decisions in like manner.
+
